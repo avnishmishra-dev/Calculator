@@ -1,0 +1,16 @@
+.btn-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.calc-btn {
+  margin: 0.25rem;
+  height: 4rem;
+  width: 4rem;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  font-weight: 700;
+  background-color: rgb(217, 251, 255);
+}

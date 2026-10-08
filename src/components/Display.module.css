@@ -1,0 +1,12 @@
+#display input{
+  display: block;
+  margin: 0.5rem auto;
+  height: 3.5rem;
+  font-size: 1.6rem;
+  /* direction: rtl; */
+  text-align: center;
+  caret-color: transparent;
+  outline: none;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+}
