@@ -37,38 +37,6 @@ src/
 └── assets/
 ```
 
-## Installation
-
-1. Open the project folder:
-
-```bash
-cd "React tutorial/7.Projects_2.0/Calculator-ver-02"
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-## Run the Project
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Then open the local URL shown in the terminal (usually `http://localhost:5173`).
-
-## Build for Production
-
-```bash
-npm run build
-```
-
-This creates a production-ready build in the `dist` folder.
-
 ## Usage
 
 - Click number buttons to enter values
